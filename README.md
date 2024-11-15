@@ -1,2 +1,2 @@
 # Semi4TSF
-Semi4TSF code is still being organized. We publicize a real-world collected Power dataset as a benchmark. Full code, and model checkpoints will be released after the review period.
+We have publicized the core code and a real-world collected Power dataset as a benchmark. Full code, and model checkpoints of Semi4TSF is still being organized, which will be released after the acceptance.
